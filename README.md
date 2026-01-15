@@ -13,6 +13,6 @@ We host workshops, collabs, and events designed to make AI-assisted development 
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://www.instagram.com/cursoratuw/
 [email-shield]: https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: mailto:cursoratuw.gmail.com
+[email-url]: mailto:cursoratuw@gmail.com
 [linktree-shield]: https://img.shields.io/badge/LINKTR.EE-%238d3ac5?style=for-the-badge
 [linktree-url]: https://linktr.ee/cursoratuw
